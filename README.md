@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dnyaneshwar Tamnar
-- 💻 Working Angular Developer and django Developer
+- 💻 Working as a Angular Developer and django Developer
 - 👀 I’m interested in Web Development,Software Development.
 - 🌱 I have Completed Computer Engineering
 - 📫 How to reach me @Dnyaneshwar Tamnar on LinkedIn
